@@ -11,3 +11,4 @@ logs
 Thumbs.db
 android/
 .venv/
+.DS_Store
